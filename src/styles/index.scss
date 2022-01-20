@@ -1,0 +1,15 @@
+@import "./core.scss";
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
+}
+
+body {
+    background-color: rgb(53, 49, 49);
+    min-height: 100vh;
+    width: 100vw;
+    color: white;
+}
