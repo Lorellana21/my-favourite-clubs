@@ -5,7 +5,8 @@
 This is a review exercise when we reached the middle of the React module at the Bootcamp. 🚀
 
 It consists of painting a list of clubs which in turn contains a list of members.👨‍👨‍👧‍👦
-And all this data can be found at a constant stream of information about our favourite clubs, the icon they use and their membership list.
+
+And all data realted to our favourite clubs, the icon they use and their membership list can be found at a constant stream of information about.
 
 **Instructions**
 
