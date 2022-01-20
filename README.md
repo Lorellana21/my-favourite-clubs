@@ -2,9 +2,10 @@
 
 ### What is this for?
 
-This is a review exercise when we reached the middle of the React module at the Bootcamp. It consists of painting a list of clubs which in turn contains a list of members.
-For this we had to create 2 componentsthis is a review exercise when we were in the middle of the react module. It consists of painting a list of clubs which in turn contains a list of members.
-And all this information can be found at a constant stream of information about our favourite clubs, the icon they use and their membership list.
+This is a review exercise when we reached the middle of the React module at the Bootcamp. 
+
+It consists of painting a list of clubs which in turn contains a list of members.
+And all this data can be found at a constant stream of information about our favourite clubs, the icon they use and their membership list.
 
 **Instructions**
 
