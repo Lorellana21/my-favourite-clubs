@@ -5,7 +5,7 @@ const Club = (props) => {
   const renderMembers = () => {
     return props.item.members.map((member, index) => {
       return (
-        <li className="members__item" key={index}>
+        <li className="club__members--item" key={index}>
           {member}
         </li>
       );
@@ -17,9 +17,12 @@ const Club = (props) => {
         <i className={`club__icon ${props.item.fa}`}></i>
         <div className="club__info">
           <h2 className="club__title">{props.item.name}</h2>
-          <h4 className="members__title">Members:</h4>
         </div>
-        <ul className="members__list">{renderMembers()}</ul>
+
+        <div className="club__members">
+          <h4 className="club__members--title">Members:</h4>
+          <ul className="club__members--list">{renderMembers()}</ul>
+        </div>
       </article>
     </>
   );
