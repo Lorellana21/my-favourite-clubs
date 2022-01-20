@@ -6,7 +6,7 @@ This is a review exercise when we reached the middle of the React module at the 
 
 It consists of painting a list of clubs which in turn contains a list of members.👨‍👨‍👧‍👦
 
-And all data realted to our favourite clubs, the icon they use and their membership list can be found at a constant stream of information about.
+And all of this data related to our favourite clubs, the icon they use and their membership list can be found at a constant stream of information about.
 
 **Instructions**
 
