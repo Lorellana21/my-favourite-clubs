@@ -1,12 +1,12 @@
 # My favourite clubs
 
-### What is this for?👈
+### What is that?👈
 
-This is a review exercise when we reached the middle of the React module at the Bootcamp. 🚀
+This is a review exercise made when we reached the middle of the React module at the Bootcamp. 🚀
 
-It consists of painting a list of clubs which in turn contains a list of members.👨‍👨‍👧‍👦
+It consists of painting a list of clubs which, in turn, contains a list of members.👨‍👨‍👧‍👦
 
-And all of this data related to our favourite clubs, the icon they use and their membership list can be found at a constant stream of information about.
+And all of this data related to the clubs, the icon they use and their membership list can be found at a constant stream of information.
 
 **Instructions**
 
@@ -18,5 +18,5 @@ Adding our data constant to the `App.js` file we need to paint the list of clubs
 
 In the first phase the important thing is to paint the data, but the aim is to create two more components:
 
-- ClubList.js with the list of clubs
-- Club.js with each card of each club
+- `ClubList.js` with the list of clubs
+- `Club.js` with a card for each club

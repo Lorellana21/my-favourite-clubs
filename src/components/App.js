@@ -7,7 +7,7 @@ import data from "../data/clubs.json";
 const App = () => {
   return (
     <>
-      <h1 className="title">Mis clubes favoritos</h1>
+      <h1 className="title">My favourite clubs</h1>
       <ClubList list={data}></ClubList>
     </>
   );
